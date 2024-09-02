@@ -2,8 +2,6 @@
 
 Este repositório contém as soluções para as questões do teste de estágio (Questões 2/3/4/5 feitas em python).
 
-## Questões e Respostas
-
 ### 1. Resultado
 
 - **91**
